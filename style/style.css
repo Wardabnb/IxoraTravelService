@@ -1,0 +1,43 @@
+body{
+    margin-top: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e6e4d9;
+    background-size: cover;
+    background-position: center;
+}
+
+header ul li a{
+   color: rgb(253, 39, 39);
+   background-color:rgb(255, 255, 255); 
+   opacity: 0.6;
+  
+}
+.all{
+background-image: url("/image/hero.avif");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: top;
+
+}
+#service{
+    background-color: #f6f6f8;
+}
+#contact{
+    background: #64aee7;
+    color: #FFF;
+    border-radius: 0px;
+    }
+#contact-sm { padding-top: 24px;
+    padding-bottom: 24px; }
+#contact small {
+    color: #FFF;
+    }
+.h1 small {
+    font-size: 24px;
+    }
+.img-md {
+    width: 300px; /* Remplacez cette valeur par la largeur souhaitée */
+    height: auto; /* Cela garantit que la hauteur est ajustée proportionnellement à la largeur */
+    }
